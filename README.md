@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Dtikoli/Dtikoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about C, Javascript, Python, Puppet, Bash
 - 📫 How to reach me: tikolidavid@yahoo.com
 - 😄 Pronouns: he, him, his
--->
